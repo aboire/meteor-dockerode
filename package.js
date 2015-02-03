@@ -2,7 +2,7 @@
 Package.describe({
   name: "ongoworks:dockerode",
   summary: "Docker remote API. Wraps the dockerode package for Meteor.",
-  version: "0.1.4",
+  version: "2.0.6",
   git: "https://github.com/ongoworks/meteor-dockerode"
 });
 

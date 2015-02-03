@@ -1,9 +1,0 @@
-{
-  "name": "dockerode",
-  "description": "Wraps the dockerode package for Meteor",
-  "homepage": "https://github.com/ongoworks/meteor-dockerode",
-  "author": "Eric Dobbertin (http://dairystatedesigns.com)",
-  "version": "0.1.0",
-  "git": "https://github.com/ongoworks/meteor-dockerode.git",
-  "packages": {}
-}
