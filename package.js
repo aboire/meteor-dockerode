@@ -1,6 +1,6 @@
 /* Meteor package information for package Dockerode*/
 Package.describe({
-  name: "aboire:dockerode",
+  name: "djabatav:dockerode",
   summary: "Docker remote API. Wraps the dockerode package for Meteor.",
   version: "2.2.7",
   git: "https://github.com/aboire/meteor-dockerode"
