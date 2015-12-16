@@ -3,7 +3,7 @@ Package.describe({
   name: "aboire:dockerode",
   summary: "Docker remote API. Wraps the dockerode package for Meteor.",
   version: "2.2.7",
-  git: "https://github.com/ongoworks/meteor-dockerode"
+  git: "https://github.com/aboire/meteor-dockerode"
 });
 
 Npm.depends({
